@@ -1,0 +1,9 @@
+{
+	"name": "Lost_Scrolls",
+	"description": "Following your victory over the Mistlands' Queen, Avid stirs chaos by summoning corrupted warriors to thwart Valheim's champions. Guardians materialize across the realm, prepared for battle. You now find yourself embroiled in a profound holy war.",
+	"version_number": "2.2.3",
+	"website_url": "https://www.taegukgaming.online/lost-scrolls",
+	"dependencies": [
+		"denikson-BepInExPack_Valheim-5.4.2202"
+	]
+}

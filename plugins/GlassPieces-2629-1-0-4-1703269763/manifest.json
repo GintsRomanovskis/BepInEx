@@ -1,0 +1,7 @@
+﻿{
+  "name": "GlassPieces",
+  "description": "Adds 27 new build pieces made of glass and iron, 2 new materials and 1 new resource that you can mine.",
+  "version_number": "1.0.4",
+  "website_url": "https://www.nexusmods.com/valheim/mods/2629?tab=bugs",
+  "dependencies": ["denikson-BepInExPack_Valheim-5.4.2202"]
+}

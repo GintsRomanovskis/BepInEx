@@ -1,0 +1,7 @@
+﻿{
+  "name": "BeeKeeper",
+  "description": "A simple mod that adds a new skill that increases beehives production rate and speed.",
+  "version_number": "1.0.1",
+  "website_url": "https://www.nexusmods.com/valheim/mods/2621/?tab=bugs",
+  "dependencies": ["denikson-BepInExPack_Valheim-5.4.2202"]
+}
